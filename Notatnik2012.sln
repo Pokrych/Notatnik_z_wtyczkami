@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotatnikPluginAPI", "NotatnikPluginAPI\NotatnikPluginAPI.csproj", "{E3DCA6D7-6416-4BC2-B968-5360D7651E6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notatnik2012Forms", "Notatnik2012Forms\Notatnik2012Forms.csproj", "{BE1020D3-BEBE-42B6-83BC-429AA081E60E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WtyczkaCzasu", "WtyczkaCzasu\WtyczkaCzasu.csproj", "{E81E5C65-D84C-4BE4-948C-9614CB98B14C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WtyczkaWielkosc", "WtyczkaWielkosc\WtyczkaWielkosc.csproj", "{0EEA5F10-E05B-4D8A-AE45-867C39DF68D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3DCA6D7-6416-4BC2-B968-5360D7651E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3DCA6D7-6416-4BC2-B968-5360D7651E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3DCA6D7-6416-4BC2-B968-5360D7651E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3DCA6D7-6416-4BC2-B968-5360D7651E6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE1020D3-BEBE-42B6-83BC-429AA081E60E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1020D3-BEBE-42B6-83BC-429AA081E60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1020D3-BEBE-42B6-83BC-429AA081E60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1020D3-BEBE-42B6-83BC-429AA081E60E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E81E5C65-D84C-4BE4-948C-9614CB98B14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E81E5C65-D84C-4BE4-948C-9614CB98B14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E81E5C65-D84C-4BE4-948C-9614CB98B14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E81E5C65-D84C-4BE4-948C-9614CB98B14C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EEA5F10-E05B-4D8A-AE45-867C39DF68D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EEA5F10-E05B-4D8A-AE45-867C39DF68D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EEA5F10-E05B-4D8A-AE45-867C39DF68D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEA5F10-E05B-4D8A-AE45-867C39DF68D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11F21DB9-A8A8-48E7-BB30-7312D990BBA4}
+	EndGlobalSection
+EndGlobal
